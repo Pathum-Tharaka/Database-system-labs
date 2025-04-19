@@ -1,3 +1,5 @@
+Lab sheet 03 Answers
+
 1.
 CREATE TYPE exch_trd_arr AS
 VARRAY(4) OF VARCHAR(12);
